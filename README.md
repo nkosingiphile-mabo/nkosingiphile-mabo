@@ -4,7 +4,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 - 🎓 Advanced Diploma in Information & Communications Technology  
 - 💼 Currently: **IT Systems & Software Engineer @ Focalsoft**  
@@ -15,7 +15,7 @@
 
 ---
 
-## 🔧 Tech Stack & Tools
+## Tech Stack & Tools
 
 **Languages:**  
 `C#` `PHP` `JavaScript` `Python` `SQL`
@@ -31,7 +31,7 @@
 
 ---
 
-## 💼 Experience
+## Experience
 
 **Focalsoft** — *IT Systems & Software Engineer*  
 Mar 2024 – Present  
@@ -51,17 +51,17 @@ Sep 2021 – Jan 2022
 
 ---
 
-## 🔥 Current Projects
+## Current Projects
 
-- 🏥 **Healthcare Management System (HMS)**  
+- **Healthcare Management System (HMS)**  
   Full-stack role-based system for managing doctors, patients, appointments & reports. Built with PHP, Bootstrap, jQuery, and MySQL.
 
-- 🛠️ **Personal SaaS Tools & CRM Dashboards**  
+- **Personal SaaS Tools & CRM Dashboards**  
   Building systems that are multi-tenant, API-integrated, and cloud-hosted.
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 
 - 🌐 [Portfolio Website (Coming Soon)](https://nkosingiphile.dev)
 - 💼 [LinkedIn](https://www.linkedin.com/in/nkosingiphile-mabo/)
