@@ -1,6 +1,6 @@
 # 👋🏽 Hi, I’m Nkosingiphile Mabo
 
-🚀 Passionate and skilled **Software Developer** with over **3 years of hands-on experience** in designing, developing, and maintaining full-stack web applications, systems, and SaaS products.
+Passionate and skilled **Software Developer** with over **3 years of hands-on experience** in designing, developing, and maintaining full-stack web applications, systems, and SaaS products.
 
 ---
 
