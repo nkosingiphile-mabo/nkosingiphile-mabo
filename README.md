@@ -1,6 +1,6 @@
 # 👋🏽 Hi, I’m Nkosingiphile Mabo
 
-Passionate and skilled **Software Developer** with over **3 years of hands-on experience** in designing, developing, and maintaining full-stack web applications, systems, and SaaS products.
+Passionate and skilled **Software Developer** with over **4 years of hands-on experience** in designing, developing, and maintaining full-stack web applications, systems, and SaaS products.
 
 ---
 
@@ -57,8 +57,9 @@ Sep 2021 – Jan 2022
 
 ## Current Projects
 
-- **Healthcare Management System (HMS)**  
-  Full-stack role-based system for managing doctors, patients, appointments & reports. Built with PHP, Bootstrap, jQuery, and MySQL.
+- **Healthcare Management System (HMS)**
+Full-stack role-based system for managing doctors, patients, appointments, and reports.  
+building it with **React** (frontend), **Tailwind CSS** (UI), and a **backend with MySQL** for secure authentication, data management, and reporting.
 
 - **Personal SaaS Tools & CRM Dashboards**  
   Building systems that are multi-tenant, API-integrated, and cloud-hosted.
