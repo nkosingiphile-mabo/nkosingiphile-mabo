@@ -37,6 +37,10 @@ Passionate and skilled **Software Developer** with over **3 years of hands-on ex
 Mar 2024 – Present  
 > Designing web platforms in C#, ASP.NET & React. Managing AWS EC2/S3 servers. Integrating CRMs, REST APIs, and custom dashboards.
 
+**Mangosuthu University of Technology** — *Data & Research Assistant*  
+Mar 2023 – Feb 2024  
+> Utilized SPSS, Python (Pandas, NumPy), and SQL for data cleaning and analysis. Developed Power BI dashboards and custom visualizations. Automated workflows using Python scripts. Designed and optimized SQL queries for research data.  
+
 **108 Media** — *Software Developer*  
 Feb 2022 – Jan 2023  
 > Full-stack development using C#, .NET Core, React.js, Node.js & Express.js. Improved backend data performance by 20%.
